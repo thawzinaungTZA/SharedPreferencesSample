@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferencesSample</string>
+    <string name="username">UserName</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="clear_form">Clear Form</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
